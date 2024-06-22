@@ -25,5 +25,5 @@ References:
 
     (b) RDBMS - Relational DataBase Management System.  A special form of DBMS where data is stored in table format, and where tables have related information with each other.  It can also support larger data sets and multiple users.
 
-    (c) Compare/Contrast - RDBMS can store more information that DMBS, can be quicker to retrieve and update intformation, provides better security, and supports multiple users.  DBMS software generally requires less hardware performance.
+    (c) Compare/Contrast - RDBMS can store more information that DMBS, can be quicker to retrieve and update information, provides better security, and supports multiple users.  DBMS software generally requires less hardware performance.
 
